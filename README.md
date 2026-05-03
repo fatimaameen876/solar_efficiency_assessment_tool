@@ -6,3 +6,4 @@ This project is a web-based application designed to help users in Pakistan decid
 The tool also provides estimated cost savings, payback periods, and energy-efficiency tips to reduce electricity usage before installing solar panels. It is built to simplify decision-making by giving clear, accurate, and locally relevant information without technical complexity.
 
 The goal of this project is to promote smart energy use and encourage affordable, environmentally friendly solutions for Pakistani households.
+
